@@ -1,0 +1,107 @@
+header{
+
+	background: #BBBBBB;
+}
+.caixa{
+
+	width: 940px;
+	position: relative;
+	margin: 0px auto;
+}
+
+nav li {
+	display:  inline;
+	margin-left: 15px;
+	
+}
+
+nav a{
+
+	color:  #000000;
+	font-size:  20px;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-decoration:  none;
+}
+
+nav a:hover{
+
+	color: 	#3CB371;
+	text-decoration: underline;
+}
+
+nav {
+
+	position:  absolute;
+	top:  110px;
+	right:  0px;
+}
+main ul{
+	width:  940px;
+	margin:  0px auto ;
+	padding:  50px 0px;
+}
+
+main ul li{
+	display: inline-block;
+	text-align:  center;
+	width:  30%;
+	vertical-align: top;
+	
+	margin: 0 1.5%;
+	padding:  30px 20px;
+	box-sizing: border-box;
+	border: 2px solid #000000;
+	border-radius: 15px;
+}
+
+main ul li:hover{
+
+	border-color: #3CB371;
+
+}
+
+
+main ul li:hover h2{
+	font-size:  34px;
+}
+
+main ul li:active{
+
+	border-color: #BC8F8F;
+}
+
+main ul li h2{
+	font-size:  30px;
+	font-weight:  bold;
+
+}
+
+.produto-descricao{ 
+	font-size:  18px;
+	height:  40px;
+	padding:  10px;
+
+
+}
+
+
+.produto-preco{
+
+	font-size:  22px;
+	font-weight:  bold;
+
+}
+
+footer{
+	background: url(bg.jpg);
+	text-align: center;
+	padding:  40px 0px;
+
+}
+.rodape{
+	color: white;
+	font-size:  13px;
+	margin-top:  15px;
+	padding: 5px;
+}
