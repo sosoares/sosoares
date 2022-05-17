@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sosoares
-- 👀 I’m interested in web development, life long learning, books and food
+- 👀 I’m interested in web development, life long learning and books
 - 🌱 I’m currently learning HTML, CSS ans JS
 - 💞️ I’m looking to collaborate on these topics above
 - 📫 How to reach me @stefhanysoares
